@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Post 4"
+date:   2017-09-04
+categories: post
+---
+Nothing to see here, just post 4
