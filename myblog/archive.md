@@ -1,8 +1,18 @@
 ---
 layout: default
-permalink: archive.html
-title:  "All posts"
 ---
+
+<style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+  }
+  h3 {
+    margin: 30px 0;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+</style>
 
 <div class="container">
 	<h3>All posts</h3>
